@@ -1,0 +1,55 @@
+Whenever we need a humorous story (true or otherwise) to highlight how easily different cultures can misunderstand one another, we turn to the Japanese, folkloric exemplars of foreigners who admire and imitate American culture but are too different from us to truly understand it. We don't lack for amusing anecdotes about how the Japanese have managed to garble some essential part of American culture in typically hilarious fashion, everything from their fashioning Christmas decorations showing Santa Claus nailed to a cross to their mistranslating the titles of Pulitzer Prize-winning novels:
+
+Elaine Steinbeck, John Steinbeck's widow, can spot her husband's name on the spine of a book in many languages, including Russian and Greek. Once she was in Yokohama and, at sea with Japanese, she asked a book-store owner if he had any books by her favorite author. He thought for a moment, then said, yes, he had "The Angry Raisins."
+
+The example at hand, the rendering of the title of John Steinbeck's The Grapes of Wrath as The Angry Raisins in a Japanese translation, is perhaps less interesting as a "silly mistranslation" story than it is as a study of how easily and quickly an anecdote of this type can travel and mutate into something quite different.
+
+For a number of reasons, the anecdote quoted above might not be nearly as implausible or silly as it might seem at first blush:
+
+1) Although in English we have distinctly different words for certain types of dried produce (e.g., dried grapes are "raisins"; dried plums are "prunes"), not all languages do. Just as the English language has no specific term to describe dried tomatoes (they're generally referred to simply as "sun-dried tomatoes"), so Japanese has no specific term for dried grapes. In Japanese, grapes are budou , and raisins are hoshibudou (literally "dried grapes"). Thus, substituting one term for the other wouldn't be quite as noticeable a difference in Japanese as it would be in English.
+
+2) Titles of translated works are often chosen by publishers (rather than translators), and a publisher's goal is more likely to be to try to come up with a short, catchy name that will appeal to the target audience rather than to provide a faithful translation of the original title.
+
+A perfect example of this phenomenon is the case of the Japanese pop song "Ue O Muite Aruko" (literally " I Look Up When I Walk "), a hit in both the UK and America in 1963 in a cover version by jazzman Kenny Ball and the original version by Japanese singer Kyu Sakamoto, respectively. Both versions were sung in Japanese, but the British record label that released Kenny Ball's recording was concerned English-speaking audiences might find the original title too difficult to remember and pronounce, so they gave it a new title: "Sukiyaki." (The American record label retained the British title when they released Kyu Sakamoto's version a few months later.)
+
+Of course, the word 'sukiyaki' (a sauteed beef dish) had absolutely nothing to do with the lyrics or meaning of the song. Nonetheless, the word served the purpose well because it was short, catchy, recognizably Japanese, and familiar to most English speakers (very few of whom could understand the Japanese lyrics anyway) -- even if, as Newsweek quipped, the re-titling was akin to issuing "Moon River" in Japan under the title of "Beef Stew."
+
+3) Words and phrases often have special significance to a native speaker's culture that may not be obvious to foreigners. Most Americans recognize that the title The Grapes of Wrath echoes a line from Julia Ward Howe's defiant 19th-century anthem " The Battle Hymn of the Republic ," but a Japanese translator might not be familiar with the reference and therefore might not understand the importance of rendering the phrase literally rather than figuratively.
+
+Likewise, an American translating a Chinese work might render a title whose literal meaning was "fog-shrouded bamboo thicket" as the shorter and more poetic "Forest Mist" without knowing that "fog-shrouded bamboo thicket" was actually a key line from a well-known work of the T'ang dynasty poet Li Po , thereby inadvertently producing, through a seemingly inconsequential alteration, a title hilarious to those familiar with Chinese culture.
+
+Plausible or not, the claim that Steinbeck's novel was translated into Japanese as The Angry Raisins (or under the inverted title The Wrath of Grapes ) is not supported by the evidence: an examination of the translated works of Steinbeck using Japan's National Institute of Informatics NACSIS Webcat database shows that the title of Steinbeck's masterpiece has been correctly rendered in multiple Japanese versions as Ikari no budou (the first published as far back as 1962), yet it reveals no instances of the book's being published as Ikareru hoshibudou ("The Angry Raisins") or Budou no ikari ("The Wrath of Grapes").
+
+The anecdote involving Mrs. Steinbeck quoted at the head of this page might still be literally true, just not the result of a badly-translated title. It's quite possible that the bookstore owner might have been very familiar with what he knew as Steinbeck's Ikari no budou , but in the pressure of the moment, having to communicate with a foreigner who likely didn't understand any Japanese, he expressed the title using the closest English words he could remember: angry and raisins. ("Wrath," especially, is a word only a more advanced student of English would be likely to know.)
+
+As we noted above, what's more interesting about this tale is the variety of forms in which the same amusing tidbit of mistranslation has been presented to us over the years. The earliest version we found was a short item in the Jerusalem Post about a trip John Steinbeck's widow made to Japan in 1989 (coincident with the fiftieth anniversary of The Grapes of Wrath 's publication), which stated:
+
+John Steinbeck's widow, Elaine, was in Tokyo to accept a posthumous honour for the author of The Grapes of Wrath . One particularly effusive Japanese told her: "We like your husband's work very much, particularly The Angry Raisins ."
+
+Five years later, the New York Times printed a slightly different version, the one quoted at the top of this page, which had Ms. Steinbeck finding out about the unusual title of her husband's novel in Japan not when she was approached by an effusive fan, but when she entered a bookstore to inquire about it.
+
+Those two accounts aren't necessarily mutually exclusive, but a few years later an Irish newspaper reported that the garbled title came about in an entirely different fashion, as the product of one of those classic " translating machine " foul-ups:
+
+In real life (as opposed to the brochures and sci fi films), when machines try to translate things, they often run into problems. One Japanese machine turned "The Grapes of Wrath" into "The Angry Raisins". Another translated "Out of sight, out of mind" into "The Invisible Idiot" (think about it).
+
+A couple of years later, writer Neil Steinberg was using the garbled title to test whether sales clerks in independent book stores possessed any more literary savvy than their counterparts at the large chain stores:
+
+Round One began at the neighborhood Borders. I walked up to the information desk and stood before a young lady with long hair. "I'm looking for a novel," I said. "It's about migrant farm workers in California during the Great Depression."
+
+Her reply was automatic, like pushing a button. No sooner had I pronounced the "n" in "Depression," when she said: The Grapes of Wrath.
+
+I then walked down to LPB. The store was utterly empty, and there were two clerks (one's heart does break for these places), one behind the counter, one dusting the shelves. Not wanting to double their chances, I waited until the dusting clerk drifted out of earshot.
+
+"I'm looking for a novel," I began, and unspooled the same request as at Borders. He looked at me blankly. I proceeded to hint No. 2: "I think it's called Angry Raisins. "
+
+"Grapes?" said the guy with the feather duster, who had drifted back. "Grapes of Wrath?"
+
+The first clerk, obviously abashed, explained that he assumed I was looking for something more "obscure," and there is probably some truth to that. You'd get a blank look at McDonald's, too, if you asked for a slice of meat between two discs of bread. Still, big chains won the round.
+
+Finally, in an article about Cliffs Notes (those venerable shortcut guides to analysis and interpretation of literary works which students have been using for decades in order to avoid having to actually read books like The Scarlet Letter ), the tale comes full circle as it is transformed into an anecdote about an American student woefully unfamiliar with his own cultural heritage:
+
+In area bookstores, sales clerks' experience suggests that all these guides will have a prime market for many years to come.
+
+"I had one guy come in asking for Angry Raisins," said Ms. Mullis. It turned out the customer was seeking The Grapes of Wrath.
+
+In less than ten years' time, The Grapes of Wrath had journeyed halfway around the world and came back as The Angry Raisins , in the process spawning a tale that started out as condescension towards foreigners who want to imitate our culture without understanding it, but ended up as a lamentation over how woefully out of touch we can be with our culture ourselves.

@@ -1,0 +1,7 @@
+config,hallucinated,incorrect,correct,refused
+llama_base,7,54,38,0
+llama_base_strict,6,41,41,11
+llama_rag3,0,29,52,18
+llama_rag3_strict,0,23,50,26
+llama_rag6,1,33,52,13
+llama_rag6_strict,0,20,36,43

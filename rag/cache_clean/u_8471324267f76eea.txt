@@ -1,0 +1,23 @@
+Survivorship bias or survivor bias is the tendency to view the performance of existing stocks or funds in the market as a representative comprehensive sample without regarding those that have gone bust. Survivorship bias can result in the overestimation of historical performance and general attributes of a fund or market index.
+
+Survivorship bias risk is the chance of an investor making a misguided investment decision based on published investment fund return data.
+
+Survivorship bias is a natural singularity that makes the existing funds in the investment market more visible and therefore more highly viewed as a representative sample. Survivorship bias occurs because many funds in the investment market are closed by the investment manager for various reasons leaving existing funds at the forefront of the investing universe.
+
+Funds may close for various reasons. Numerous market researchers follow and have reported on the effects of fund closings, highlighting the occurrence of survivorship bias. Market researchers regularly follow fund survivorship bias and fund closings to gauge historical trends and add new dynamics to fund performance monitoring.
+
+Numerous studies have been done discussing survivorship bias and its effects. For instance, Morningstar released a research report titled “ The Fall of Funds: Why Some Funds Fail ” discussing fund closures and their negative consequences for investors.
+
+There are two main reasons that funds close. One, the fund may not receive high demand and therefore asset inflows do not warrant keeping the fund open. Two, a fund may be closed by an investment manager due to performance. Performance closings are typically the most common.
+
+Investors in the fund are immediately impacted by a fund closing. Companies usually offer two solutions for a fund closing. One, the fund undergoes full liquidation and the investors’ shares are sold. This causes potential tax reporting consequences for the investor. Two, the fund may choose to merge. Merged funds are often the best solution for shareholders since they allow for the special transition of shares typically with no tax reporting requirements. However, the performance of the merged funds is therefore also transitioned and can be a factor in the discussion of survivorship bias.
+
+Morningstar is one investment service provider that regularly discusses and reports on survivorship bias. It can be important for investors to be aware of survivorship bias because it may be a factor influencing performance that they are not aware of. While merged funds may take into account closed fund performance, in most cases funds are closed and their performance is not integrated into future reporting. This leads to survivorship bias, since investors may believe that currently, active funds are a true representative of all efforts to manage toward a specific objective historically. Thus, investors may want to include qualitative fund research on a strategy they are interested in investing in to determine if previous managers have tried and failed in the past.
+
+Funds may close to new investors which is very different than a full fund closing. Closing to new investors may actually be a sign of the popularity of the fund and attention from investors for above-average returns .
+
+Reverse survivorship bias describes a far less common situation where low- performers remain in the game, while high performers are inadvertently dropped from the running. An example of reverse survivorship can be observed in the Russell 2000 index that is a subset of the 2000 smallest securities from the Russell 3000. The loser stocks stay small and stay in the small-cap index while the winners leave the index once they become too big and successful.
+
+Internal Revenue Service. " Publication 550 Investment Income and Expenses (Including Capital Gains and Losses) ," Page 21. Accessed Aug. 19, 2021.
+
+Internal Revenue Service. " Mutual Funds (Costs, Distributions, etc.) 4 ." Accessed Aug. 19, 2021.

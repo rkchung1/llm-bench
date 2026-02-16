@@ -1,0 +1,5 @@
+The tables below give annual averages for precipitation at the largest cities in the United States .
+
+Each city has a total for the amount of precipitation it usually receives in a year along with information on the number of days with wet weather. The count of days includes those when precipitation amounts to 0.01 inches (0.25 millimetres) or more.
+
+The annual precipitation totals are averages based on weather data collected from 1991 to 2020 for the US National Centers for Environmental Information.

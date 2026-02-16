@@ -1,0 +1,67 @@
+In the run-up to my son’s birth a couple of months ago, I spent a lot of time sitting in my midwife’s office staring aimlessly at the posters on the wall. My favorite one depicted two scoops of ice cream with cherries on top, strategically set to look like breasts. The caption underneath suggested that exclusive breastfeeding for six months would lower a child’s risk of obesity. Presumably the implication was that if you chose to breastfeed, your child could later eat ice cream with impunity.
+
+It was a great visual, and given the current rate of obesity in the United States, a compelling argument. The only trouble is that there is no good reason to think it is correct. The one high-quality randomized controlled trial of breast-feeding did not show any impacts on childhood obesity.
+
+Of course, it’s not just childhood obesity. The purported benefits of nursing ( here is one list from the California Department of Public Health) extend to better mother-infant bonding, lower infant mortality, fewer infections in infancy, higher IQ, higher wages in adulthood, less cancer and on and on. If one takes the claims seriously, it is not difficult to conclude that breastfed babies are all thin, rich geniuses who love their mothers and are never sick a day in their lives while formula-fed babies become overweight, low-IQ adults who hate their parents and spend most of their lives in the hospital.
+
+It shouldn’t come as a surprise, then, that many women who struggle to breastfeed (or just find it annoying and want to quit) feel ashamed and sad that they are not giving their children the “best” start in life. It wouldn’t be great to make women feel this way even if all the purported benefits of breastfeeding were real. It’s even worse because the truth is that the vast majority of these claims are way overblown.
+
+This is not to say that there aren’t some benefits to breastfeeding. In poor countries where water quality is very poor, these benefits may be very large since the alternative is to use formula made with contaminated water. In developed countries — the main focus of the discussion here — this isn’t an issue. Even in developed countries, there are a few health benefits of breastfeeding for children in the first year of life (more on this below).
+
+In addition, many women enjoy nursing, so that’s a benefit regardless of any long-term impacts. And if you are planning to be home with your baby for an extended period of time, breastfeeding can be convenient and inexpensive (if you are planning to return to work, this is largely not the case, given the time and costs of pumping). But the vast majority of the claimed benefits of nursing simply do not hold up when we look at the best data.
+
+It is not that the claims about benefits are completely made up. They are mostly based on some data. The trouble is that the evidence they are based on is often seriously biased by the fact that women who breastfeed are typically different from those who do not. Breastfeeding rates differ dramatically across income, education and race.
+
+In the U.S. (and most developed countries), white, wealthy women with a lot of education are much, much more likely to nurse their babies than the rest of the population. But these demographic characteristics are also linked to better outcomes for infants even independent of breastfeeding. This makes it very difficult to infer the actual causal effect of breastfeeding. Sure, there is a correlation between nursing and various good outcomes — but that doesn’t mean that for an individual woman, nursing her baby would improve the child’s life.
+
+To give a concrete example, take this study (conducted in the late 1980s) of 345 Scandinavian children that compared IQ scores at age 5 for children who were breastfed for less than three months versus more than six months. The authors find that the children who nursed for longer had higher IQ scores — about a 7 point difference. But the mothers who breastfed longer were also richer, had more education and had higher IQ scores themselves. Once the authors adjusted for these variables, the effects of nursing were much smaller.
+
+The authors of this and other studies claim to find effects of breastfeeding because even once they adjust for the differences they see across women, the effects persist. But this assumes that the adjustments they do are able to remove all of the differences across women. This is extremely unlikely to be the case.
+
+Think about it this way: Even holding constant maternal education levels, mothers with higher IQ scores are more likely to nurse their babies. Maternal IQ is also linked directly with child IQ. So even if researchers are able to adjust for a mother’s education, they are still left with a situation in which breastfeeding behavior is associated with other characteristics (in this example, maternal IQ) that may drive infant and child outcomes.
+
+I would argue that in the case of breastfeeding, this issue is impossible to ignore and therefore any study that simply compares breastfed to formula-fed infants is deeply flawed. That doesn’t mean the results from such studies are necessarily wrong, just that we can’t learn much from them.
+
+You might wonder: If this is correct, why all the mania about breastfeeding? Why all the policy focus? Why put out a poster trumpeting the value of breastfeeding against obesity if it is wrong? The simplest reason is that people (including policymakers) may not stop to think about which research they should believe — and, as I’ve noted, there are plenty of (flawed) papers that would point to all kinds of breastfeeding benefits. It often takes time for good research to trump bad — many people still think a low-fat diet is a good idea even though randomized trial data has not supported that belief.
+
+It’s also the case that when it comes to our kids, we all want to believe that what we are doing is the best thing for them. Ensuring that your child gets exclusively breast milk for six months or a year can be very challenging, and it may be that we want to believe the sacrifice has some benefits. And it does. Just not nearly as many as we might think.
+
+To actually learn about the impacts of breastfeeding, we need to rely on studies in which breastfeeding is assigned randomly (the best option) or, in the absence of that experiment design, studies that somehow fully adjust for differences across women.
+
+This leaves us with a small but informative set of studies. In the first camp — the randomized trial camp — we have one very large-scale study from Belarus. Known as the PROBIT trial , it was run in the 1990s and continued to follow up as the children aged. The study randomized women into two groups, one in which breastfeeding was encouraged and another in which it wasn’t, and found that the encouragement treatment increased breastfeeding rates. The trial has studied all sorts of outcomes, including infant and child health and cognitive development.
+
+Given how much interest there is in this topic, it is perhaps surprising that we have only this one large randomized trial of breastfeeding. It’s not clear to me why this is the case. People may be so convinced of the benefits of breastfeeding that they see no need for further testing. Or it may be that a large enough study is too daunting and expensive to run. Whatever the reason, the randomized evidence is limited to this single case.
+
+The other group of helpful studies are those of siblings — that is, studies that compare a sibling who has been breastfed with one who has not. These aren’t as good as randomized trials, since there must be some reason why one child was nursed and one was not, but they do get around the issue of mothers who breastfeed being different from those who don’t.
+
+When people cite the benefits of breastfeeding, those benefits typically fall in one of three groups: early life health, later life health and IQ. So, what does the data say?
+
+Among the most straightforward benefits claimed for breastfeeding are improvements in infant health. The randomized trial in Belarus evaluated a very large number of infant health outcomes. The results are decidedly mixed.
+
+Infants in the treatment group — who, remember, were more likely to be breastfed — had fewer gastrointestinal infections (read: less diarrhea) and were less likely to experience eczema and other rashes. However, there were no significant differences in any of the other outcomes considered. These include: respiratory infections, ear infections, croup, wheezing and infant mortality.
+
+In other words, the evidence suggests that breastfeeding may slightly decrease your infant’s chance of diarrhea and eczema but will not change the rate at which he gets colds or ear infections and will not prevent death.
+
+Many sources (for example, that poster in my midwife’s office) go further and claim that breastfeeding has health benefits for the child in the long term — lower obesity risk, better blood pressure and so on. And on top of this, there are the claimed benefits on behaviors — less hyperactivity, fewer behavior problems, more maternal attachment, etc.
+
+The PROBIT randomized trial is again the best source. The researchers analyzed the impacts of breastfeeding on allergies and asthma ; on cavities ; and on height, blood pressure, weight and various measures of obesity . They found no evidence of nursing’s impacts on any of these outcomes. They also found no evidence of impacts on child behavior issues, emotional problems, peer issues, hyperactivity or maternal-child connection .
+
+These non-results are also present when we look at sibling data. This study , published last year in the journal Social Science & Medicine, compares siblings who were and were not breastfed on various health and behavior outcomes — obesity, asthma, hyperactivity, parental attachment, compliant behavior. They find no impact of breastfeeding on any outcome.
+
+These sibling results also provide a sense of why less effective research methods would have shown impacts. The researchers demonstrate that if you simply compare breastfed to formula-fed infants, there are significant differences on virtually all outcomes. However, once you compare siblings — where differences among mothers are fully adjusted for — you no longer see any positive impacts of breastfeeding.
+
+The final area in which the benefits of breastfeeding are often proclaimed is children’s cognitive development. All those fatty acids in breast milk are supposed to raise your child’s IQ. Perhaps more than any other benefit, this possible IQ effect is what drives the shaming of women who choose to bottle feed (at least in certain social circles).
+
+The randomized trial in Belarus did evaluate IQ . Its results are mixed and a little confusing.
+
+First, researchers looked at all the kids in the study. For this sample, the evaluation of IQ was done by evaluators who knew whether or not a child was in the breastfeeding-encouraged treatment group. There were no significant effects of breastfeeding on overall IQ. In addition, breastfeeding had no effect on teachers’ evaluation of the children’s school performance. But the researchers observed large effects of breastfeeding on verbal IQ.
+
+Because the researchers were concerned about evaluator bias, they also had a subset of children evaluated by independent evaluators who did not know which children were breastfed. The differences in verbal IQ disappeared. This, in combination with the teacher evaluations, makes it seem likely that the overall effect was driven by the evaluators, not by true differences among children because of breastfeeding.
+
+This explanation seems especially likely since the effects observed in the full sample are too large to be plausible. Taking into account the impact of the program on breastfeeding rates, the results suggest that nursing increases child IQ by about 24 IQ points, which is far outside of what any other study — even one seriously biased by differences across mothers — would suggest. Overall, as others have noted , this study doesn’t provide especially strong support for the claim that breastfeeding increases IQ.
+
+Comparisons among siblings (i.e., this and this ) also show no IQ impacts. Again, these studies make clear that if you ignore differences across mothers, you can find large impacts of breastfeeding on IQ. It is only when you compare within the same family that you reveal the fact that it really doesn’t seem to matter.
+
+Many women find breastfeeding to be an enjoyable way to bond with their babies. There is certainly no evidence that breastfeeding is any worse for a baby than formula. And maybe there are some early-life benefits in terms of digestion and rashes, which you may or may not think are important. But what the evidence says is that the popular perception that breast milk is some kind of magical substance that will lead your child to be healthy and brilliant is simply not correct.
+
+That ice cream poster is wrong. If you want to help your child avoid becoming obese, breastfeed or not as you please. The key is to hold off on the ice cream.

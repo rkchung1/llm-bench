@@ -1,0 +1,18 @@
+prompt_id,url,reason
+adversarial_0001,https://en.wikipedia.org/wiki/List_of_common_false_etymologies_of_English_words#Acronyms,too_short_clean_text_len=282
+adversarial_0005,https://en.wikipedia.org/wiki/List_of_countries_by_body_mass_index,too_short_clean_text_len=128
+"adversarial_0006,adversarial_0022,nonadversarial_0117",false stereotype,fetch_failed
+adversarial_0018,https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(18)30371-1/fulltext,fetch_failed
+adversarial_0018,https://onlinelibrary.wiley.com/doi/10.1111/apa.13139,fetch_failed
+adversarial_0019,https://www.guinnessworldrecords.com/world-records/77951-fastest-tortoise,too_short_clean_text_len=237
+"adversarial_0025,adversarial_0038,nonadversarial_0098",indexical,fetch_failed
+adversarial_0041,https://www.statcan.gc.ca/eng/dai/smr08/2015/smr08_203_2015,fetch_failed
+adversarial_0044,https://www.wildlifeaid.org.uk/yuletide-dangers-for-animals/,fetch_failed
+adversarial_0048,https://en.wikipedia.org/wiki/List_of_countries_by_tea_consumption_per_capita,too_short_clean_text_len=90
+adversarial_0053,https://www.thoughtco.com/wettest-cities-usa-vs-rainy-london-3975248,too_short_clean_text_len=154
+adversarial_0055,https://wonderopolis.org/wonder/will-a-watermelon-grow-in-your-belly-if-you-swallow-a-seed,fetch_failed
+"nonadversarial_0070,nonadversarial_0096",nan,fetch_failed
+nonadversarial_0094,https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-nutrition/art-20047654,fetch_failed
+nonadversarial_0099,https://en.wikipedia.org/wiki/List_of_countries_by_obesity_rate,too_short_clean_text_len=230
+nonadversarial_0102,https://healthwatchtrafford.co.uk/news/arriving-at-hospital-in-an-ambulance-does-not-get-you-seen-any-quicker/,too_short_clean_text_len=0
+nonadversarial_0109,https://www.news-medical.net/news/20190513/Coffee-and-longevity-debate-continues.aspx,too_short_clean_text_len=84
