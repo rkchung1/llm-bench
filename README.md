@@ -69,7 +69,7 @@ Evaluated **six inference settings**:
 
 ---
 
-## 🔎 Retrieval (Lite-RAG)
+## Retrieval (Lite-RAG)
 
 Implemented a lightweight RAG pipeline:
 
@@ -89,15 +89,17 @@ Pipeline:
 
 ---
 
-## 📊 Key Results
+## Results
+
+![Accuracy Plot](results/plots/outcome_counts_per_config.png)
 
 Comparison: **Base vs RAG (Top-3)**
 
 | Metric | Base | RAG-3 |
 |--------|------|-------|
-| Hallucinations | 7 → **0** |
-| Correct | 38 → **52** |
-| Incorrect | 54 → **29** |
+| Hallucinations | 7 | **0** |
+| Correct | 38 | **52** |
+| Incorrect | 54 | **29** |
 
 ### Observed Improvements
 
@@ -122,4 +124,3 @@ Strict prompting:
   - Refusal behavior  
   - Hallucination suppression 
 
-  
