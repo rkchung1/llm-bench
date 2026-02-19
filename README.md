@@ -1,4 +1,4 @@
-# LLM Reliability & Hallucination Benchmark
+# LLM Reliability Benchmark
 
 A lightweight evaluation framework for measuring **LLM factual reliability**, focusing on:
 
@@ -8,7 +8,7 @@ A lightweight evaluation framework for measuring **LLM factual reliability**, fo
 - Effects of Retrieval-Augmented Generation (RAG)  
 - Effects of strict prompting  
 
-Built as an applied AI safety / evaluation project using **TruthfulQA**, **LLaMA-3**, and a custom **Lite-RAG pipeline**.
+Built as an applied AI safety / evaluation project using **TruthfulQA**, **LLaMA-3**, and a custom **RAG pipeline**.
 
 ---
 
