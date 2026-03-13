@@ -21,7 +21,7 @@ from rag.retrieve import retrieve  # retrieve(query, k)
 # Ollama Config
 # ======================
 OLLAMA_URL = os.environ.get("OLLAMA_URL", "http://localhost:11434/api/chat")
-OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "llama3.1:8b")
+OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "llama3:latest")
 
 # ======================
 # Helpers
@@ -73,7 +73,7 @@ def build_user_prompt(question: str, context: Optional[str]) -> str:
     return question
 
 def call_llama(system_prompt: str, user_prompt: str, temperature: float = 0.0) -> str:
-    payload = {
+    chat_payload = {
         "model": OLLAMA_MODEL,
         "messages": [
             {"role": "system", "content": system_prompt},
@@ -83,10 +83,15 @@ def call_llama(system_prompt: str, user_prompt: str, temperature: float = 0.0) -
         "stream": False,
     }
 
-    r = requests.post(OLLAMA_URL, json=payload, timeout=120)
+    if not OLLAMA_URL.endswith("/api/chat"):
+        raise ValueError(
+            f"OLLAMA_URL must end with /api/chat, got: {OLLAMA_URL}"
+        )
+
+    r = requests.post(OLLAMA_URL, json=chat_payload, timeout=120)
     r.raise_for_status()
     data = r.json()
-    return (data.get("message", {}) or {}).get("content", "").strip()
+    return ((data.get("message", {}) or {}).get("content") or "").strip()
 
 def build_context_from_hits(hits: List[Dict[str, Any]], max_chars: int = 6000) -> str:
     parts = []
